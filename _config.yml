@@ -1,0 +1,33 @@
+color:
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  brandStrength: 0.6607345403172076
+  lightness: 0.9345859433524311
+  saturation: 0.7596274155657738
+  rhythmicContrast: 0.08017186634242535
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: LearnEd
+layout_spectrum: 0.25553969852626324
+typography_spectrum: 0.5020300087053329
+content: []
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d01809db-6202-4f67-a3ae-33e0e1a5ae9d.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5071f4cc-db6e-4810-8cf7-176eebc4366e.png
+content_rating:
+  adult: false
+author:
+  name: Mahindra Pai
+  email: mahindra.pai@learnedstudio.com
+github: true
+url: 'https://thegrid.ai/learnedstudio/'
